@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hyrex Portfolio Hub - Discover Tomorrow's Talent</title>
+    <meta name="description" content="Explore exceptional developer profiles from top universities. Find your next DevOps Engineer, ML Engineer, or Full-Stack Developer on Hyrex Portfolio Hub." />
+    <meta name="keywords" content="developer portfolio, tech recruitment, software engineers, DevOps, ML engineers, full-stack developers, Hyrex" />
+    <meta name="theme-color" content="#FF0000" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://portfolio.hyrex.com" />
+    <meta property="og:title" content="Hyrex Portfolio Hub - Discover Tomorrow's Talent" />
+    <meta property="og:description" content="Bringing Tomorrow's Talent to Today's Teams — Powered by Hyrex" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content="Hyrex Portfolio Hub - Discover Tomorrow's Talent" />
+    <meta property="twitter:description" content="Bringing Tomorrow's Talent to Today's Teams — Powered by Hyrex" />
+    
+    <style>
+      /* Custom scrollbar */
+      ::-webkit-scrollbar {
+        width: 8px;
+      }
+      
+      ::-webkit-scrollbar-track {
+        background: #f5f5f5;
+      }
+      
+      ::-webkit-scrollbar-thumb {
+        background: #ff0000;
+        border-radius: 4px;
+      }
+      
+      ::-webkit-scrollbar-thumb:hover {
+        background: #cc0000;
+      }
+      
+      /* Smooth scrolling */
+      html {
+        scroll-behavior: smooth;
+      }
+      
+      /* Loading animation */
+      .loading-spinner {
+        width: 40px;
+        height: 40px;
+        border: 4px solid #f0f0f0;
+        border-top: 4px solid #ff0000;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root">
+      <div style="display: flex; justify-content: center; align-items: center; height: 100vh; background: #fff;">
+        <div class="loading-spinner"></div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
