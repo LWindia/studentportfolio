@@ -1,11 +1,11 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { ChevronDown } from 'lucide-react';
-import img1 from '../assets/images/001.jpg';
-import img2 from '../assets/images/002.jpg';
-import img3 from '../assets/images/003.jpg';
-import vid1 from '../assets/videos/001.mp4';
-import vid2 from '../assets/videos/002.mp4';
+import img1 from '/assets/images/001.jpg';
+import img2 from '/assets/images/002.jpg';
+import img3 from '/assets/images/003.jpg';
+import vid1 from '/assets/videos/001.mp4';
+import vid2 from '/assets/videos/002.mp4';
 
 const AnimatedBackground: React.FC = () => {
   return (
