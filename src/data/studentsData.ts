@@ -21,7 +21,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2028',
     github: 'https://github.com/saurabh-crt0024',
     portfolio: 'https://lighthearted-mandazi-6dcf2d.netlify.app',
-    photo: '/assets/students/Saurabh Singh.jpg',
+    photo: '/assets/students/Saurabh singh.jpg',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -76,7 +76,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2026',
     github: 'https://github.com/Vikrantsoni2003',
     portfolio: 'https://vikrant-soni-portfolio.netlify.app/',
-    photo: '/assets/students/Vikrant Soni.jpg',
+    photo: '/assets/students/Vikrant soni.jpg',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -87,7 +87,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2027',
     github: 'https://github.com/Bhoomi0555',
     portfolio: 'https://bhoomikhandelwal-portfolio.netlify.app/',
-    photo: '/assets/students/Bhoomi Khandelwal.jpg',
+    photo: '/assets/students/Bhoomi khandelwal.jpg',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
