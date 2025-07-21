@@ -3040,7 +3040,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2025',
     github: 'https://github.com/hiteshsingh01',
     portfolio: 'https://hiteshsingh01.netlify.app/',
-    photo: '/assets/students/Hitesh Singh.jpg',
+    photo: '/assets/students/Hitesh Singh.webp',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -3051,7 +3051,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2027',
     github: 'https://github.com/kanishkajain11',
     portfolio: 'https://portfolioupdated-eight.vercel.app/',
-    photo: '/assets/students/Kanishka Jain.jpg',
+    photo: '/assets/students/kanishka jain.jpg',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -3062,7 +3062,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2026',
     github: 'https://github.com/raj85410',
     portfolio: 'https://rajupotfolio.vercel.app/',
-    photo: '/assets/students/Raju Jain.jpg',
+    photo: '/assets/students/Raj Jain.jpg',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -3106,7 +3106,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2026',
     github: 'https://github.com/Pushpendra1001',
     portfolio: 'https://hello-pushpendrabaswal.vercel.app/',
-    photo: '/assets/students/Pushpendra Baswal.jpg',
+    photo: '/assets/students/pushpendra.jpg',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -3128,7 +3128,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2027',
     github: 'https://github.com/Lakshya157',
     portfolio: 'https://gleaming-scone-fee541.netlify.app',
-    photo: '/assets/students/Lakshya Khandelwal.jpg',
+    photo: '/assets/students/Lakshya Khandelwal.png',
     role: 'Full-Stack Web Developer',
     availability: ['Full-Time']
   },
@@ -3139,7 +3139,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2026',
     github: 'https://github.com/asclepius15',
     portfolio: 'https://pin2-safi-portfolio.vercel.app',
-    photo: '/assets/students/Pintoo Safi.jpg',
+    photo: '/assets/students/PINTOO SAFI.webp',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -3150,7 +3150,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2027',
     github: 'https://github.com/22ndivyanshi',
     portfolio: 'https://portfolio-divyanshinowal.netlify.app/',
-    photo: '/assets/students/Divyanshi.jpg',
+    photo: '/assets/students/Divyanshi .jpg',
     role: 'ML Engineer',
     availability: ['Full-Time']
   },
@@ -3161,7 +3161,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2027',
     github: 'https://github.com/Garv12345678',
     portfolio: 'https://kaleidoscopic-buttercream-2d57bb.netlify.app/',
-    photo: '/assets/students/Garv.jpg',
+    photo: '/assets/students/GARV PHOTO   Garv.jpg',
     role: 'ML Engineer',
     availability: ['Full-Time']
   },
@@ -3172,7 +3172,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2026',
     github: 'https://github.com/RahulRakhi/',
     portfolio: 'https://rajjourny.netlify.app/',
-    photo: '/assets/students/Rahul Sain.jpg',
+    photo: '/assets/students/Rahul saini.jpg',
     role: 'ML Engineer',
     availability: ['Full-Time']
   },
@@ -3183,7 +3183,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2026',
     github: 'https://github.com/disha689',
     portfolio: 'https://aw', // Appears broken in original
-    photo: '/assets/students/Disha Soni.jpg',
+    photo: '/assets/students/DISHA SONI.jpg',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -3194,7 +3194,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2027',
     github: 'https://github.com/princeraj16',
     portfolio: 'https://prince-codes.netlify.app/',
-    photo: '/assets/students/Prince Raj Sharma.jpg',
+    photo: '/assets/students/Princeraj Sharma.jpeg',
     role: 'ML Engineer',
     availability: ['Full-Time']
   },
@@ -3249,7 +3249,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2026',
     github: 'https://github.com/sunnysingh3456',
     portfolio: 'https://singhsurajportfolio.netlify.app/',
-    photo: '/assets/students/Suraj.jpg',
+    photo: '/assets/students/Suraj Singh.jpg',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -3282,7 +3282,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2026',
     github: 'https://github.com/Aayushikhandelwal27',
     portfolio: 'https://luminous-gingersnap-95c173.netlify.app/',
-    photo: '/assets/students/Ayushi Khandelwal.jpg',
+    photo: '/assets/students/Ayushi  Khandelwal.jpg',
     role: 'ML Engineer',
     availability: ['Full-Time']
   },
