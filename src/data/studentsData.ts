@@ -56,7 +56,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://karvy19.netlify.app/',
     photo: '/assets/students/Karvy Goyel.jpg',
     role: 'DevOps Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '6',
@@ -133,7 +133,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://anushkasharma-protfolio.netlify.app/',
     photo: '/assets/students/Anushka Sharma.jpg',
     role: 'ML Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '13',
@@ -166,7 +166,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://devvsaxenaportfolio.netlify.app/',
     photo: '/assets/students/Dev Saxena.jpg',
     role: 'DevOps Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '16',
@@ -177,7 +177,7 @@ export const studentsData: Student[] = [
     portfolio: 'na',
     photo: '/assets/students/Rahul Prajapat.jpg',
     role: 'ML Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '17',
@@ -188,7 +188,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://60h5imcyy3e5.manus.space/?code=TqpM4GcW7aJGN4bbJ4baeY',
     photo: '/assets/students/Abhilasha.jpg',
     role: 'DevOps Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '18',
@@ -210,7 +210,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://amazing-swan-064734.netlify.app/',
     photo: '/assets/students/Mayank Raj.jpg',
     role: 'DevOps Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '20',
@@ -287,7 +287,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://abhimanyusingh-portfolio.netlify.app/',
     photo: '/assets/students/Abhimanyu Shekhawat.jpg',
     role: 'ML Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '27',
@@ -298,7 +298,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://jitendra-portfolio-web.netlify.app/',
     photo: '/assets/students/Jitendra Bairwa.jpg',
     role: 'ML Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '28',
@@ -331,7 +331,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://smitt.netlify.app/',
     photo: '/assets/students/Smit Sudani.jpg',
     role: 'ML Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
  {
     id: '31',
@@ -353,7 +353,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://melodic-snickerdoodle-080a6a.netlify.app',
     photo: '/assets/students/Anmol Gupta.jpg',
     role: 'DevOps Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '33',
@@ -430,7 +430,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://studiosameer.art',
     photo: '/assets/students/Sameer Singh.jpg',
     role: 'Full-Stack Web Developer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
  {
     id: '40',
@@ -463,7 +463,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://stellar-quokka-03e714.netlify.app/',
     photo: '/assets/students/Devendra Bhari.jpg',
     role: 'ML Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '43',
@@ -485,7 +485,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://github.com/karthikeyyy',
     photo: '/assets/students/Rohit Karadiya.jpg',
     role: 'Full-Stack Web Developer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '45',
@@ -606,7 +606,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://verdant-jelly-904ae2.netlify.app/#projects',
     photo: '/assets/students/Aryan Saini.jpg',
     role: 'DevOps Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '56',
@@ -650,7 +650,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://playful-blini-6a9793.netlify.app/',
     photo: '/assets/students/Anwesha Das.jpg',
     role: 'Full-Stack Web Developer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
    {
     id: '60',
@@ -661,7 +661,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://arvind-portfoli.netlify.app/',
     photo: '/assets/students/Arvind Singh Rathore.jpg',
     role: 'ML Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '61',
@@ -738,7 +738,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://ayushvyas.netlify.app/',
     photo: '/assets/students/Ayush Vyas.jpg',
     role: 'DevOps Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '68',
@@ -814,7 +814,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://bhanupriyasharma.netlify.app/',
   photo: '/assets/students/Bhanupriya Sharma.jpg',
   role: 'ML Engineer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '75',
@@ -913,7 +913,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://krishanavtar.netlify.app/',
   photo: '/assets/students/Krishanavtar Sharma.jpg',
   role: 'ML Engineer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '84',
@@ -924,7 +924,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://pashu70.netlify.app/',
   photo: '/assets/students/Natasha Aggarwal.jpg',
   role: 'DevOps Engineer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '85',
@@ -935,7 +935,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://vimal-kumar.netlify.app/',
   photo: '/assets/students/Vimal Kumar.jpg',
   role: 'Full-Stack Web Developer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '86',
@@ -979,7 +979,7 @@ export const studentsData: Student[] = [
   portfolio: 'http://localhost:5173/',
   photo: '/assets/students/Siddharth Sharma.jpg',
   role: 'Full-Stack Web Developer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '90',
@@ -1001,7 +1001,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://sadhanadongre.netlify.app',
   photo: '/assets/students/Sadhana Kakade.jpg',
   role: 'ML Engineer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '92',
@@ -1012,7 +1012,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://himanshu-swami-portfolio.netlify.app/',
   photo: '/assets/students/Himanshu Swami.jpg',
   role: 'Full-Stack Web Developer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '93',
@@ -1023,7 +1023,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://gaurav8955.lovable.app/',
   photo: '/assets/students/Gaurav Sharma.jpg',
   role: 'DevOps Engineer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '94',
@@ -1034,7 +1034,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://dhanjay11.netlify.app',
   photo: '/assets/students/Dhananjay Vilas Kharat.jpg',
   role: 'DevOps Engineer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 
   {
@@ -1057,7 +1057,7 @@ export const studentsData: Student[] = [
     "portfolio": "https://nishantkumarsharma-portfolio.netlify.app/",
     "photo": "/assets/students/Nishant Kumar Sharma.jpg",
     "role": "DevOps Engineer",
-    "availability": ["Part-Time"]
+    "availability": ["Full-Time"]
   },
   {
     "id": "97",
@@ -1068,7 +1068,7 @@ export const studentsData: Student[] = [
     "portfolio": "https://share.google/A1D16eLIheOoswwJh",
     "photo": "/assets/students/Kuldeep Singh.jpg",
     "role": "Full-Stack Web Developer",
-    "availability": ["Part-Time"]
+    "availability": ["Full-Time"]
   },
   {
     "id": "98",
@@ -1079,7 +1079,7 @@ export const studentsData: Student[] = [
     "portfolio": "https://tanishqp.netlify.app/",
     "photo": "/assets/students/Tanishq Rana.jpg",
     "role": "Full-Stack Web Developer",
-    "availability": ["Part-Time"]
+    "availability": ["Full-Time"]
   },
   {
     "id": "99",
@@ -1101,7 +1101,7 @@ export const studentsData: Student[] = [
     "portfolio": "https://melodious-rolypoly-efc59b.netlify.app/",
     "photo": "/assets/students/Aman Singh Gaud.jpg",
     "role": "ML Engineer",
-    "availability": ["Part-Time"]
+    "availability": ["Full-Time"]
   },
   {
     "id": "101",
@@ -1123,7 +1123,7 @@ export const studentsData: Student[] = [
     "portfolio": "https://neuron-portfolio-ai-nexus.lovable.app",
     "photo": "/assets/students/Nitesh Sharma.jpg",
     "role": "DevOps Engineer",
-    "availability": ["Part-Time"]
+    "availability": ["Full-Time"]
   },
   {
     "id": "103",
@@ -1134,7 +1134,7 @@ export const studentsData: Student[] = [
     "portfolio": "https://relaxed-axolotl-f63032.netlify.app/",
     "photo": "/assets/students/Maheshwar Singh Deora.jpg",
     "role": "ML Engineer",
-    "availability": ["Part-Time"]
+    "availability": ["Full-Time"]
   },
   {
     "id": "104",
@@ -1156,7 +1156,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://dev-vikash.netlify.app',
   photo: '/assets/students/Vikash Kumar Singh.jpg',
   role: 'DevOps Engineer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '106',
@@ -1178,7 +1178,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://mansivaishnav.netlify.app/',
   photo: '/assets/students/Mansi Vaishnav.jpg',
   role: 'ML Engineer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '108',
@@ -1211,7 +1211,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://kunikaa.netlify.app/',
   photo: '/assets/students/Kunika Prajapat.jpg',
   role: 'ML Engineer',
-  availability: ['Part-Time']
+  availability: ["Full-Time"]
 },
   {
     id: '111',
@@ -1222,7 +1222,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://khushi-kanwar.netlify.app/',
     photo: '/assets/students/Khushi Kanwar.jpg',
     role: 'ML Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '112',
@@ -2095,7 +2095,7 @@ export const studentsData: Student[] = [
   portfolio: 'https://super-sundae-9a2e2e.netlify.app/',
   photo: '/assets/students/Pragya Kanwar.jpg',
   role: 'DevOps Engineer',
-  availability: ['Part-Time']
+  availability: ['Full-Time']
 },
 {
   id: '191',
