@@ -45,7 +45,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://dache01.github.io/My-Portfolio/',
     photo: '/assets/students/Khangembam Alex D Nelson.jpg',
     role: 'DevOps Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '5',
@@ -78,7 +78,7 @@ export const studentsData: Student[] = [
     portfolio: 'https://vikrant-soni-portfolio.netlify.app/',
     photo: '/assets/students/Vikrant soni.jpg',
     role: 'DevOps Engineer',
-    availability: ['Part-Time']
+    availability: ['Full-Time']
   },
   {
     id: '8',
@@ -164,7 +164,7 @@ export const studentsData: Student[] = [
     passingOutYear: '2026',
     github: 'https://github.com/DevvSaxena17',
     portfolio: 'https://devvsaxenaportfolio.netlify.app/',
-    photo: '/assets/students/Dev Saxena.jpg',
+    photo: '/assets/students/Devv Saxena.jpeg',
     role: 'DevOps Engineer',
     availability: ['Full-Time']
   },
@@ -3296,6 +3296,120 @@ export const studentsData: Student[] = [
     photo: '/assets/students/Naresh Singh.jpg',
     role: 'ML Engineer',
     availability: ['Part-Time']
-  }
+  },
+
+  
+   {
+    id: '308',
+    name: 'Umesh Kumar',
+    college: 'Amity University Rajasthan',
+    passingOutYear: '2027',
+  
+    portfolio: 'https://umeshyadavportfolio.netlify.app/',
+    github: 'https://github.com/ishu-2608',
+    role: 'Full-Stack Web Developer',
+    photo: '/assets/students/Umesh Kumar.jpg',
+    availability: ['Part-Time']
+  },
+  {
+    id: '309',
+    name: 'Smit Sudani',
+    college: 'JEC',
+    passingOutYear: '2026',
+ 
+    portfolio: 'https://smitt.netlify.app/',
+    github: 'https://github.com/sudani05',
+    role: 'ML Engineer',
+    photo: '/assets/students/Smit Sudani.jpg',
+    availability: ['Part-Time']
+  },
+  {
+    id: '310',
+    name: 'Simran Tyagi',
+    college: 'VGU',
+    passingOutYear: '2026',
+    portfolio: 'https://lively-lily-e5161c.netlify.app/',
+    github: 'https://github.com/simrantyagi508/simrantyagi-',
+    role: 'DevOps Engineer',
+    photo: '/assets/students/Simran Tyagi.jpg',
+    availability: ['Part-Time']
+  },
+  {
+    id: '311',
+    name: 'Chetan Sethy',
+    college: 'Defence Institute of Advanced Technology Pune',
+    passingOutYear: '2026',
+    portfolio: 'https://chetansethy.netlify.app/',
+    github: 'https://github.com/chetan7659/',
+    role: 'ML Engineer',
+    photo: '/assets/students/Chetan Sethy.jpg',
+    availability: ['Part-Time']
+  },
+  {
+    id: '312',
+    name: 'Ayush Vyas',
+    college: 'Vivekananda Global University',
+    passingOutYear: '2026',
+    portfolio: 'https://ayushvyas.netlify.app/',
+    github: 'https://github.com/AyushVyas3925',
+    role: 'ML Engineer',
+    photo: '/assets/students/Ayush Vyas.jpg',
+    availability: ['Part-Time']
+  },
+  {
+    id: '313',
+    name: 'Sanya',
+    college: 'JEC',
+    passingOutYear: '2027',
+    portfolio: 'https://snappy-sanya.netlify.app/',
+    github: 'https://github.com/Sa-nya06',
+    role: 'ML Engineer',
+    photo: '/assets/students/Sanya.jpg',
+    availability: ['Part-Time']
+  },
+  {
+    id: '314',
+    name: 'Neelakshi Kaundal',
+    college: 'DAV University Jalandhar',
+    passingOutYear: '2027',
+    portfolio: 'https://github.com/neelakshink/portfoliolw.git',
+    github: 'https://github.com/neelakshink',
+    role: 'DevOps Engineer',
+    photo: '/assets/students/Neelakshi Kaundal.jpg',
+    availability: ['Part-Time']
+  },
+  {
+    id: '315',
+    name: 'Manisha Kumari Singh',
+    college: 'Binod Bihari Mahato Koyalanchal University Dhanbad Jharkhand',
+    passingOutYear: '2023',
+    portfolio: 'https://www.linkedin.com/in/manisha-kumari-singh-8744a5299/',
+    github: 'https://github.com/',
+    role: 'DevOps Engineer',
+    photo: '/assets/students/Manisha Kumari Singh.jpg',
+    availability: ['Full-Time']
+  },
+  {
+    id: '316',
+    name: 'Rajveer Singh Rathore',
+    college: 'Amity Jaipur',
+    passingOutYear: '2026',
+    portfolio: 'https://686bd0116cc0e2c2b69a122a--dynamic-rabanadas-abe161.netlify.app/',
+    github: 'https://github.com/iamninjacoder',
+    role: 'DevOps Engineer',
+    photo: '/assets/students/Rajveer Singh Rathore.jpg',
+    availability: ['Full-Time']
+  },
+  {
+    id: '317',
+    name: 'Bagvan Gulam Moinuddin',
+    college: 'Poornima University',
+    passingOutYear: '2026',
+    portfolio: 'https://www.linkedin.com/in/moin-khan-780b51351',
+    github: 'https://github.com/Moinhan',
+    role: 'DevOps Engineer',
+    photo: '/assets/students/Bagvan Gulam Moinuddin.jpg',
+    availability: ['Full-Time']
+  },
 
 ];
